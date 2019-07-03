@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "HelloWorld.BLL/1.0.0": {
+        "dependencies": {
+          "HelloWorld.DAL": "1.0.0"
+        },
+        "runtime": {
+          "HelloWorld.BLL.dll": {}
+        }
+      },
+      "HelloWorld.DAL/1.0.0": {
+        "runtime": {
+          "HelloWorld.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloWorld.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

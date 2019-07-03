@@ -1,0 +1,14 @@
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.deps.json
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.runtimeconfig.json
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.runtimeconfig.dev.json
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.dll
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.pdb
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csproj.CoreCompileInputs.cache
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.AssemblyInfoInputs.cache
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.AssemblyInfo.cs
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.dll
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.pdb
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csprojAssemblyReference.cache
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.dll
+C:\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.pdb
+C:\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csproj.CopyComplete
