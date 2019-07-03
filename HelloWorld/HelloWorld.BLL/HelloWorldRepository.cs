@@ -7,7 +7,7 @@ namespace HelloWorld.BLL
 {
     public class HelloWorldRepository : IHelloWorldRepository
     {
-        public void Write()
+        public string Write()
         {
             throw new NotImplementedException();
         }

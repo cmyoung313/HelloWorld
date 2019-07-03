@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace HelloWorld.BLL
+﻿namespace HelloWorld.BLL
 {
     public interface IHelloWorldRepository
     {
-        void Write();
+        string Write();
     }
 }

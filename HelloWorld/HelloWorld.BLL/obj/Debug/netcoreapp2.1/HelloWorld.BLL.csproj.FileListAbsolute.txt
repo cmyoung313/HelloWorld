@@ -26,3 +26,17 @@ C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\ne
 C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csproj.CopyComplete
 C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.dll
 C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.pdb
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.deps.json
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.runtimeconfig.json
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.runtimeconfig.dev.json
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.dll
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.BLL.pdb
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.dll
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.pdb
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csprojAssemblyReference.cache
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.AssemblyInfoInputs.cache
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.AssemblyInfo.cs
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.csproj.CopyComplete
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.dll
+C:\Users\cy18843\Downloads\HelloWorld-master\HelloWorld-master\HelloWorld\HelloWorld.BLL\obj\Debug\netcoreapp2.1\HelloWorld.BLL.pdb
