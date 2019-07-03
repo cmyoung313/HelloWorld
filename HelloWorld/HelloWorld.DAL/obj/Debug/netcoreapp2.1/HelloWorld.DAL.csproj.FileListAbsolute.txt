@@ -8,3 +8,13 @@ C:\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.AssemblyInfo
 C:\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.AssemblyInfo.cs
 C:\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.dll
 C:\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.pdb
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.deps.json
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.runtimeconfig.json
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.runtimeconfig.dev.json
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.dll
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\bin\Debug\netcoreapp2.1\HelloWorld.DAL.pdb
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.AssemblyInfoInputs.cache
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.AssemblyInfo.cs
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.dll
+C:\Users\Cody\Documents\HelloWorld-master\HelloWorld\HelloWorld.DAL\obj\Debug\netcoreapp2.1\HelloWorld.DAL.pdb
